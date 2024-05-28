@@ -1,4 +1,4 @@
-# Soma Simples
+# Soma simples
 <li>Desenvolvimento Back-End</li><br>
 
 ### Tecnologias Usadas
